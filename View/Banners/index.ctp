@@ -46,7 +46,7 @@
 			</a>
 		</li>
 
-		<li class="dropdown-header">
+		<li class="dropdown-header" style="padding-top: 10px; padding-bottom: 10px;">
 			<div style="background-image:url('http://www.netcommons.org/images/common/line/line_c3.gif'); height: 5px; background-position: left center;　background-repeat: repeat-x;">
 			</div>
 		</li>
@@ -76,6 +76,42 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ <ul class="nav nav-pills nav-stacked">
+		<li style="padding:5px;">カテゴリ１</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-danger">公開申請中</span>
+			</a>
+		</li>
+		<li style="padding:5px;">
+			<div style="background-image:url('http://www.netcommons.org/images/common/line/line_c3.gif'); height: 5px; background-position: left center;　background-repeat: repeat-x;">
+			</div>
+		</li>
+		<li class="" style="padding:5px;">
+			カテゴリ２
+		</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li><a href="#">Dropdown link</a></li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-warning">下書き</span>
+			</a>
+		</li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-default">差し戻し</span>
+			</a>
+		</li>
+  </ul>
 <br />
 <br />
 <br />
