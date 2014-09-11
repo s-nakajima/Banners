@@ -1,3 +1,91 @@
+
+<div class="btn-group">
+	<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+	  NetCommons3プロジェクト
+	  <span class="caret"></span>
+	</button>
+	<ul class="dropdown-menu" role="menu">
+		<li class="dropdown-header">カテゴリ１</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li>
+			<a href="#">Dropdown link
+				<span class="label label-info">公開申請中</span>
+			</a>
+
+		</li>
+		<li class="dropdown-header">カテゴリ２</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li><a href="#">Dropdown link</a></li>
+	</ul>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div class="btn-group">
+  <button type="button" class="btn btn-default">NetCommons3プロジェクト</button>
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+    <span class="sr-only">Toggle Dropdown</span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+		<li class="dropdown-header">カテゴリ１</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-danger">公開申請中</span>
+			</a>
+		</li>
+
+		<li class="dropdown-header">
+			<div style="background-image:url('http://www.netcommons.org/images/common/line/line_c3.gif'); height: 5px; background-position: left center;　background-repeat: repeat-x;">
+			</div>
+		</li>
+		<li class="dropdown-header">
+			カテゴリ２
+		</li>
+		<li><a href="#">Dropdown link</a></li>
+		<li><a href="#">Dropdown link</a></li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-warning">下書き</span>
+			</a>
+		</li>
+		<li>
+			<a href="#">Dropdown link　Dropdown link
+				<span class="label label-default">差し戻し</span>
+			</a>
+		</li>
+  </ul>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 <div style="max-width:250px; height: 250px">
 	 <img src="/banners/img/Penguins.jpg" class="img-responsive" />
 </div>
