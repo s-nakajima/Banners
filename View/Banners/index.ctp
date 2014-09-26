@@ -1,5 +1,5 @@
 
-
+<!--
 <div style="max-width:250px; height: 250px">
 	 <img src="/banners/img/Penguins.jpg" class="img-responsive" />
 </div>
@@ -59,3 +59,4 @@
 <br />
 <br />
 <br />
+-->
